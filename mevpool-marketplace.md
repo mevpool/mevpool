@@ -1,4 +1,4 @@
-# MEVpool: A Private Mempool Marketplace Standard [^1]
+# MEVpool: A Private Mempool Marketplace Standard [^0] [^1]
 
 ## Preamble
 
@@ -82,7 +82,7 @@ It is possible that MEVil-creating protocols never gain substantial traction on 
 
 
 
-
+[^0]: By Matt Corallo and 7d5x9
 [^1]: After arriving at this name, we discovered a blog post by James Prestwich which abstractly describes a similar scheme with the same name: https://prestwich.substack.com/p/mevpool
 [^2]: https://bluematt.bitcoin.ninja/2024/04/16/stop-calling-it-mev/
 [^3]: https://bitcoinops.org/en/topics/client-side-validation/
